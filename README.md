@@ -1,5 +1,5 @@
 # gtfo
-This project is forked from https://github.com/t0thkr1s/gtfo.
+> This project is forked from https://github.com/t0thkr1s/gtfo.
 
 This is a standalone script written in Python 3 for [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io).
 You can search for Unix binaries that can be exploited to bypass system security restrictions.
