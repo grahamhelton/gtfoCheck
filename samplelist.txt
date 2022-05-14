@@ -1,0 +1,7 @@
+awk
+nope
+cowsay
+dd
+notin
+ping
+diff
