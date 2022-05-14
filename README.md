@@ -1,7 +1,5 @@
 # gtfo
-
-[![made-with-python](http://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![built-with-love](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/t0thkr1s/)
+This project is forked from https://github.com/t0thkr1s/gtfo.
 
 This is a standalone script written in Python 3 for [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io).
 You can search for Unix binaries that can be exploited to bypass system security restrictions.
@@ -13,7 +11,7 @@ They are simplified (no need for environmental variables) and syntax highlighted
 ## Download
 
 ```
-git clone https://github.com/t0thkr1s/gtfo
+https://github.com/grahamhelton/gtfoCheck
 ```
 
 ## Install
@@ -30,17 +28,22 @@ python3 setup.py install
 ```
 
 ## Run
+> Run with -l to check a list of binaries (one per line)
 
 ```
-python3 gtfo.py [binary]
+python3 gtfo.py -b binary
+python3 gtfo.py -l list.txt
 ```
 
 ## Screenshots
 
 
-Screenshot 1             |  Screenshot 2
-:-----------------------:|:-----------------------:
-![Screenshot1](https://i.imgur.com/1EzFiGQ.png)  |  ![Screenshot2](https://i.imgur.com/icgmDct.png)
+Screenshot 1 
+
+![Screenshot1](https://i.imgur.com/1EzFiGQ.png) 
+
+![gtfo](https://user-images.githubusercontent.com/19278569/168411543-8062954e-b68f-4f0a-b6e0-2be74c2939ce.gif)
+
 
 
 ### Disclaimer
