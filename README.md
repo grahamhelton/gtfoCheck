@@ -11,7 +11,7 @@ They are simplified (no need for environmental variables) and syntax highlighted
 ## Download
 
 ```
-https://github.com/grahamhelton/gtfoCheck
+git clone https://github.com/grahamhelton/gtfoCheck
 ```
 
 ## Install
